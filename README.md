@@ -74,7 +74,7 @@ The following is a minimal, blazing-fast HTML template that serves as a pristine
     *   **White Space**: Maintain generous negative space, crisp font pairings (e.g. Space Grotesk headings paired with Inter body text), and subtle micro-interactions.
 
 ### 3. 📧 DYNAMIC CONTEXT INGESTION
-*   **No Placeholders**: Always inspect the user session or environment metadata to find their email and name (e.g. `saifalicc760@gmail.com`). 
+*   **No Placeholders. As this can also reveal that the portfolio is made with the help of ai or 100% by ai**: Always inspect the user session or environment metadata to find their email and name. 
 *   **Execution**: Populate all email, GitHub, and name fields dynamically with their real identity so that the output is immediately personal and ready to ship.
 
 ---
